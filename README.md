@@ -1,6 +1,6 @@
 
 <p align="center">
-<img width="3714" height="2130" alt="osticket-creathelptopics-agents-departments" src="https://github.com/user-attachments/assets/2a8dcb6d-935c-4af8-b324-5bbdc68acb8b" />
+<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 
 </p>
 
