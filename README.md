@@ -1,6 +1,7 @@
 
 <p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+<img width="3714" height="2130" alt="osticket-creathelptopics-agents-departments" src="https://github.com/user-attachments/assets/2a8dcb6d-935c-4af8-b324-5bbdc68acb8b" />
+
 </p>
 
 <h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
