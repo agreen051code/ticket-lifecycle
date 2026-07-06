@@ -61,7 +61,7 @@ Intake - A user named Karen submits a ticket reporting that customers are unable
 <img width="3663" height="1986" alt="resolution osticket" src="https://github.com/user-attachments/assets/2f95b04a-7f03-4e89-9f11-238b3c5ad564" />
 
 <p>
-Resolution -  ane successfully restarts the backend server and restores the online banking system. After confirming with Karen that the service is working properly, the issue is resolved, and the ticket can be closed.
+Resolution - Jane successfully restarts the backend server and restores the online banking system. After confirming with Karen that the service is working properly, the issue is resolved, and the ticket can be closed.
 </p>
 
 
