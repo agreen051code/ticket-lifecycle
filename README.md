@@ -37,24 +37,34 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 </p>
 <p>
-In this example, a ticket is opened by the user Karen for issues with the online 
+Intake - A ticket is opened by the user Karen for issues with the online 
   banking system.
 </p>
 <br />
 
 <p>
-<img width="3714" height="2130" alt="osticket-creathelptopics-agents-departments" src="https://github.com/user-attachments/assets/f6af201e-9671-4283-80b3-1f9ce99e3468" />
+<img width="3543" height="1305" alt="osticket assign" src="https://github.com/user-attachments/assets/f55d5ad6-5cd3-4b0e-a373-688bd917bd0d" />
 
 </p>
-<p> Using osTicket to set up departments, help topics, and agents in osTickets as an admin.
+<p>Assignment and Communication - John, the help desk agent, is escalating the ticket to the Sysadmin department.
 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="3702" height="1947" alt="working issue osticket " src="https://github.com/user-attachments/assets/abc7febb-85ed-4c9b-a902-3c22f194bd55" />
+
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+ Working the Issue - Jane the SysAdmin is working on the issue by attempting to restart
+  the online banking system backend server.
 </p>
+<img width="3663" height="1986" alt="resolution osticket" src="https://github.com/user-attachments/assets/2f95b04a-7f03-4e89-9f11-238b3c5ad564" />
+
+<p>
+Resolution - Jane the SysAdmin successfully restarts the server, and the online banking is back up and running, and she confirms with Karen.  
+</p>
+
+
 <br />
