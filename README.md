@@ -32,11 +32,12 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <p>
 
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="3705" height="2019" alt="intake iosticket" src="https://github.com/user-attachments/assets/5f9c1868-b05b-46c0-bc31-23359423b210" />
+
 
 </p>
 <p>
-In this example a ticket is opened by the user Karen for issues with the online 
+In this example, a ticket is opened by the user Karen for issues with the online 
   banking system.
 </p>
 <br />
