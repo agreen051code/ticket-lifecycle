@@ -37,8 +37,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 </p>
 <p>
-Intake - A ticket is opened by the user Karen for issues with the online 
-  banking system.
+Intake - A user named Karen submits a ticket reporting that customers are unable to access the online banking system. The ticket is created and ready for review by the help desk team.
 </p>
 <br />
 
@@ -46,7 +45,7 @@ Intake - A ticket is opened by the user Karen for issues with the online
 <img width="3543" height="1305" alt="osticket assign" src="https://github.com/user-attachments/assets/f55d5ad6-5cd3-4b0e-a373-688bd917bd0d" />
 
 </p>
-<p>Assignment and Communication - John, the help desk agent, is escalating the ticket to the SysAdmin department.
+<p>Assignment and Communication - John, the help desk agent, reviews the ticket and escalates it to the SysAdmin department for further investigation. 
 
 </p>
 <br />
@@ -57,13 +56,12 @@ Intake - A ticket is opened by the user Karen for issues with the online
 
 </p>
 <p>
- Working the Issue - Jane the SysAdmin is working on the issue by attempting to restart
-  the online banking system backend server.
+ Working the Issue - Jane, a SysAdmin, investigates the issue and attempts to restore service by restarting the online banking system's backend server. The ticket is updated to document the troubleshooting process.
 </p>
 <img width="3663" height="1986" alt="resolution osticket" src="https://github.com/user-attachments/assets/2f95b04a-7f03-4e89-9f11-238b3c5ad564" />
 
 <p>
-Resolution - Jane, the SysAdmin, successfully restarts the server, the online banking is back up and running, and she confirms with Karen.  
+Resolution -  ane successfully restarts the backend server and restores the online banking system. After confirming with Karen that the service is working properly, the issue is resolved, and the ticket can be closed.
 </p>
 
 
