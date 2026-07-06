@@ -36,7 +36,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In this example a ticket is opened by the user Karen for issues with the online 
+  banking system.
 </p>
 <br />
 
