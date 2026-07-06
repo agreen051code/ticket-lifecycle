@@ -46,7 +46,7 @@ Intake - A ticket is opened by the user Karen for issues with the online
 <img width="3543" height="1305" alt="osticket assign" src="https://github.com/user-attachments/assets/f55d5ad6-5cd3-4b0e-a373-688bd917bd0d" />
 
 </p>
-<p>Assignment and Communication - John, the help desk agent, is escalating the ticket to the Sysadmin department.
+<p>Assignment and Communication - John, the help desk agent, is escalating the ticket to the SysAdmin department.
 
 </p>
 <br />
@@ -63,7 +63,7 @@ Intake - A ticket is opened by the user Karen for issues with the online
 <img width="3663" height="1986" alt="resolution osticket" src="https://github.com/user-attachments/assets/2f95b04a-7f03-4e89-9f11-238b3c5ad564" />
 
 <p>
-Resolution - Jane the SysAdmin successfully restarts the server, and the online banking is back up and running, and she confirms with Karen.  
+Resolution - Jane, the SysAdmin, successfully restarts the server, the online banking is back up and running, and she confirms with Karen.  
 </p>
 
 
