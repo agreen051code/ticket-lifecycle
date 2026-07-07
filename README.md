@@ -37,7 +37,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 </p>
 <p>
-Intake - A user named Karen submits a ticket reporting that customers are unable to access the online banking system. The ticket is created and ready for review by the help desk team.
+Intake - A user named Karen submits a ticket reporting that employees are unable to access the online banking system. The ticket has been created and is ready for review by the help desk team.
 </p>
 <br />
 
