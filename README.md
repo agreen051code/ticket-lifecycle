@@ -35,8 +35,12 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 
 <img width="3825" height="1653" alt="1os" src="https://github.com/user-attachments/assets/846aab68-8990-4fe3-a330-42c709874f14" />
-<br />
+
 <img width="3771" height="1662" alt="3os" src="https://github.com/user-attachments/assets/b7adb32f-94e0-482a-b151-168250a82b08" />
+</p>
+<p>
+Intake -  help desk team.
+</p>
 <img width="3564" height="2016" alt="4os" src="https://github.com/user-attachments/assets/fbfd62dc-909e-462f-9107-dfebabb4b999" />
 <img width="3519" height="1983" alt="5os loop back address no web server" src="https://github.com/user-attachments/assets/e4603c7c-18f1-43fc-beeb-b8378766dae2" />
 
