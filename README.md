@@ -45,7 +45,7 @@ In this example, I deployed a Windows virtual machine in Microsoft Azure. Using 
 <br />
 <br />
 
-<h2>OsTicket files and installation</h2>
+<h2>OsTicket zip file and web server setup</h2>
 <img width="3564" height="2016" alt="4os" src="https://github.com/user-attachments/assets/fbfd62dc-909e-462f-9107-dfebabb4b999" />
 <img width="3519" height="1983" alt="5os loop back address no web server" src="https://github.com/user-attachments/assets/e4603c7c-18f1-43fc-beeb-b8378766dae2" />
 
