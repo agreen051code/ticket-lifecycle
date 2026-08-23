@@ -37,7 +37,6 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img width="3825" height="1653" alt="1os" src="https://github.com/user-attachments/assets/846aab68-8990-4fe3-a330-42c709874f14" />
 
 <img width="3771" height="1662" alt="3os" src="https://github.com/user-attachments/assets/b7adb32f-94e0-482a-b151-168250a82b08" />
-
 <p>
 In this example, I deployed a Windows virtual machine in Microsoft Azure. Using the Remote Desktop Protocol and the VM's public IP address
  was able to establish remote access.
