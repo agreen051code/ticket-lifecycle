@@ -49,7 +49,7 @@ In this example, I deployed a Windows virtual machine in Microsoft Azure. Using 
 <img width="3477" height="2007" alt="6os install enable IIS in windows" src="https://github.com/user-attachments/assets/e2243d8c-353c-4fed-9c50-1000908d74ee" />
 <img width="3453" height="2034" alt="7os verify web servers active" src="https://github.com/user-attachments/assets/68b5f8f7-f8f2-42e2-9339-929c3d116233" />
 <p>
-Intake -  help desk team.
+In this example, I downloaded the required osTicket installation files. 
 </p>
 <img width="3240" height="1956" alt="8os install php manager" src="https://github.com/user-attachments/assets/9953ec40-3ad9-4fa7-855a-651946d85662" />
 <img width="3405" height="2031" alt="14os open iis as admin" src="https://github.com/user-attachments/assets/b57464cc-199a-4d63-b2e6-49cfee7eda32" />
