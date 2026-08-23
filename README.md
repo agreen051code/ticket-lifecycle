@@ -53,15 +53,19 @@ In this example, I downloaded the required osTicket installation files. I used a
  enabled ISS in Windows. Verified web servers were active. 
 </p>
 <img width="3240" height="1956" alt="8os install php manager" src="https://github.com/user-attachments/assets/9953ec40-3ad9-4fa7-855a-651946d85662" />
+<img width="3444" height="1992" alt="9os install rewrite module" src="https://github.com/user-attachments/assets/e9fd2892-4764-4f74-b180-02c0bcae6424" />
+
 <img width="3405" height="2031" alt="14os open iis as admin" src="https://github.com/user-attachments/assets/b57464cc-199a-4d63-b2e6-49cfee7eda32" />
 <img width="3468" height="2025" alt="15os register php " src="https://github.com/user-attachments/assets/1048f5ff-4aa1-41f9-8b0b-e44c227b8a82" />
 <p>
-In this example, I Installed PHP manager  
+In this example, I configured IIS on the Windows Azure VM to support PHP-based applications.
+Installed PHP Manager and the IIS URL Rewrite Module, opened IIS Manager with administrative privileges, and registered PHP with IIS in preparation for deploying osTicket.
 </p>
 <img width="3477" height="2037" alt="17os open heidi create session" src="https://github.com/user-attachments/assets/c4313fbc-0fe2-4a67-b43c-aa17b831409a" />
 <img width="3339" height="2049" alt="18os osticket install complete" src="https://github.com/user-attachments/assets/42ed0b75-156d-4e47-86f3-1bdb7c54f8fb" />
 <p>
-Intake -  help desk team.
+In this example, I installed HeidiSQL and configured the database environment required for osTicket using HeidiSQL and established the necessary database connection. 
+Completed the osTicket installation on the Windows Server VM hosted in Microsoft Azure.
 </p>
 
 </p>
