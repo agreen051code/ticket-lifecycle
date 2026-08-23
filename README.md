@@ -17,6 +17,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Remote Desktop
 - Internet Information Services (IIS)
 
+
 <h2>Operating Systems Used </h2>
 
 - Windows 11</b> (21H2)
