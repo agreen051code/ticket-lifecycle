@@ -53,6 +53,7 @@ In this example, I deployed a Windows virtual machine in Microsoft Azure. Using 
 In this example, I downloaded the required osTicket installation files. I used a loopback address to verify that there is no web server. Installed and 
  enabled ISS in Windows. Verified web servers were active. 
 </p>
+<br />
 <img width="3240" height="1956" alt="8os install php manager" src="https://github.com/user-attachments/assets/9953ec40-3ad9-4fa7-855a-651946d85662" />
 <img width="3444" height="1992" alt="9os install rewrite module" src="https://github.com/user-attachments/assets/e9fd2892-4764-4f74-b180-02c0bcae6424" />
 
@@ -62,6 +63,7 @@ In this example, I downloaded the required osTicket installation files. I used a
 In this example, I configured IIS on the Windows Azure VM to support PHP-based applications.
 Installed PHP Manager and the IIS URL Rewrite Module, opened IIS Manager with administrative privileges, and registered PHP with IIS in preparation for deploying osTicket.
 </p>
+<br />
 <img width="3477" height="2037" alt="17os open heidi create session" src="https://github.com/user-attachments/assets/c4313fbc-0fe2-4a67-b43c-aa17b831409a" />
 <img width="3339" height="2049" alt="18os osticket install complete" src="https://github.com/user-attachments/assets/42ed0b75-156d-4e47-86f3-1bdb7c54f8fb" />
 <p>
