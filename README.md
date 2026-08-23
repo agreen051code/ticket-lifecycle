@@ -49,13 +49,14 @@ In this example, I deployed a Windows virtual machine in Microsoft Azure. Using 
 <img width="3477" height="2007" alt="6os install enable IIS in windows" src="https://github.com/user-attachments/assets/e2243d8c-353c-4fed-9c50-1000908d74ee" />
 <img width="3453" height="2034" alt="7os verify web servers active" src="https://github.com/user-attachments/assets/68b5f8f7-f8f2-42e2-9339-929c3d116233" />
 <p>
-In this example, I downloaded the required osTicket installation files. 
+In this example, I downloaded the required osTicket installation files. I used a loopback address to verify that there is no web server. Installed and 
+ enabled ISS in Windows. Verified web servers were active. 
 </p>
 <img width="3240" height="1956" alt="8os install php manager" src="https://github.com/user-attachments/assets/9953ec40-3ad9-4fa7-855a-651946d85662" />
 <img width="3405" height="2031" alt="14os open iis as admin" src="https://github.com/user-attachments/assets/b57464cc-199a-4d63-b2e6-49cfee7eda32" />
 <img width="3468" height="2025" alt="15os register php " src="https://github.com/user-attachments/assets/1048f5ff-4aa1-41f9-8b0b-e44c227b8a82" />
 <p>
-Intake -  help desk team.
+In this example, I Installed PHP manager  
 </p>
 <img width="3477" height="2037" alt="17os open heidi create session" src="https://github.com/user-attachments/assets/c4313fbc-0fe2-4a67-b43c-aa17b831409a" />
 <img width="3339" height="2049" alt="18os osticket install complete" src="https://github.com/user-attachments/assets/42ed0b75-156d-4e47-86f3-1bdb7c54f8fb" />
