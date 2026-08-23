@@ -88,7 +88,7 @@ Completed the osTicket installation on the Windows Server VM hosted in Microsoft
 
 </p>
 <p>
-Intake - A user named Karen submits a ticket reporting that employees are unable to access the online banking system. The ticket has been created and is ready for review by the help desk team.
+Intake - A user named
 </p>
 <br />
 
