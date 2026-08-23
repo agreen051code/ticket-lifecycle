@@ -29,6 +29,23 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Working the Issue
 - Resolution
 
+<h2>Setup/install</h2>
+
+<p>
+
+
+<img width="3825" height="1653" alt="1os" src="https://github.com/user-attachments/assets/846aab68-8990-4fe3-a330-42c709874f14" />
+<img width="3798" height="1698" alt="2os" src="https://github.com/user-attachments/assets/df6036ba-fbe8-4e6c-9918-61470437c0fb" />
+
+
+</p>
+<p>
+
+
+
+
+
+
 <h2>Lifecycle Stages</h2>
 
 <p>
