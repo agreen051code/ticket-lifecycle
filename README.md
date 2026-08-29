@@ -87,11 +87,13 @@ Completed the osTicket installation on the Windows Server VM hosted in Microsoft
 <img width="1806" height="1953" alt="19os ticket creating departments" src="https://github.com/user-attachments/assets/05b348c7-d274-46c3-a28a-0cff9ef8bea4" />
 
 <p>
-In this example, 
+In this example, I administered osTicket department configuration and access control. Created and configured a Sysadmins department, established department-level permissions, 
+ ticket assignment rules, notification settings, and access controls to organize support workflows and ensure users have appropriate system access.
 </p>
 
 
-
+<br />
+<br />
 
 <p>
 
