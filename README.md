@@ -78,15 +78,22 @@ In this example, I installed HeidiSQL and configured the database environment re
 Completed the osTicket installation on the Windows Server VM hosted in Microsoft Azure.
 </p>
 
+
+
+
+<br />
+<br />
+<h2>Creating departments and users</h2>
+<img width="1806" height="1953" alt="19os ticket creating departments" src="https://github.com/user-attachments/assets/05b348c7-d274-46c3-a28a-0cff9ef8bea4" />
+
+<p>
+In this example, 
 </p>
 
 
 
+
 <p>
-
-
-
-
 
 
 <h2>Lifecycle Stages</h2>
